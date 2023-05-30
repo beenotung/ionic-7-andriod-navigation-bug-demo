@@ -1,0 +1,7 @@
+{
+  "name": "hkcd-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
